@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "83044935058",
+    "firebase_url": "https://goodbitee-21198.firebaseio.com",
+    "project_id": "goodbitee-21198",
+    "storage_bucket": "goodbitee-21198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83044935058:android:b0da34ef6ba22a34",
+        "android_client_info": {
+          "package_name": "com.goodbitee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83044935058-5phaf7p8j7fg91pqot0b2ff2q5kavm4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodbitee",
+            "certificate_hash": "77415b18236dfa78ff20aca884b7ba4ed6d3441c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6bmQRkriUZxLifWLkY4ZUw0yGc6xowA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83044935058-7gbpapvmduuapsut9rob0rs1d4v1aadj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
